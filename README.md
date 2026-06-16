@@ -8,10 +8,10 @@
 - Desktop Applications
 
 ## Tech Stack
-- Python
-- Pygame
-- Git
-- GitHub
+-🐍 Python
+-🎮 Pygame
+- 🔧Git
+- 📂 GitHub
 
 ## Featured Project
 ### Vampire Survivors Clone
