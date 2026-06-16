@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @yagizkoryurek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Yağız 👋
 
-<!---
-yagizkoryurek/yagizkoryurek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+15-year-old developer from Türkiye.
+
+## Current Projects
+- Vampire Survivors Inspired Game
+- Python Automation Tools
+- Desktop Applications
+
+## Tech Stack
+- Python
+- Pygame
+- Git
+- GitHub
+
+## Featured Project
+### Vampire Survivors Clone
+A survival game inspired by Vampire Survivors built with Python and Pygame.
+
+## Goals
+- Build 10 public projects
+- Improve Python skills
+- Learn advanced game development
